@@ -1,8 +1,12 @@
 ---
-title: Title for search engines; can be different from the actual heading
-description: A short description of this page
+title: Changelog
+description: Log file of this site
 keywords: [keywords, describing, the main topics]
 ---
+
+### 改變字體大小
+2023-08-19 17:13:22
+在/src/css/custom.css 內改變網站預設字體大小
 
 # Hello World
 ```jsx title="/src/components/HelloCodeTitle.js" showLineNumbers (2)
